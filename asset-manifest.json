@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/payinstacard/static/css/main.f821d0a7.css",
-    "main.js": "/payinstacard/static/js/main.9bdf57d6.js",
-    "static/js/536.9c934511.chunk.js": "/payinstacard/static/js/536.9c934511.chunk.js",
-    "static/media/slick.svg": "/payinstacard/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/payinstacard/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/payinstacard/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/payinstacard/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/payinstacard/index.html",
-    "main.f821d0a7.css.map": "/payinstacard/static/css/main.f821d0a7.css.map",
-    "main.9bdf57d6.js.map": "/payinstacard/static/js/main.9bdf57d6.js.map",
-    "536.9c934511.chunk.js.map": "/payinstacard/static/js/536.9c934511.chunk.js.map"
+    "main.css": "/pay-insta-card/static/css/main.6c5c38f8.css",
+    "main.js": "/pay-insta-card/static/js/main.1d486a9f.js",
+    "static/js/536.9c934511.chunk.js": "/pay-insta-card/static/js/536.9c934511.chunk.js",
+    "static/media/slick.svg": "/pay-insta-card/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/pay-insta-card/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/pay-insta-card/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/pay-insta-card/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/pay-insta-card/index.html",
+    "main.6c5c38f8.css.map": "/pay-insta-card/static/css/main.6c5c38f8.css.map",
+    "main.1d486a9f.js.map": "/pay-insta-card/static/js/main.1d486a9f.js.map",
+    "536.9c934511.chunk.js.map": "/pay-insta-card/static/js/536.9c934511.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f821d0a7.css",
-    "static/js/main.9bdf57d6.js"
+    "static/css/main.6c5c38f8.css",
+    "static/js/main.1d486a9f.js"
   ]
 }
