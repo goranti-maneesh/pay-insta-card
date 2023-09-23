@@ -26,7 +26,7 @@ class Header extends Component {
             <li className="list-items-for-max">Home</li>
             <li className="list-items-for-max">About</li>
             <li className="list-items-for-max">Schedule</li>
-            <li className="list-items-for-max">Membership</li>
+            <li className="list-items-for-max">Member ship</li>
             <li className="list-items-for-max">Pricing</li>
           </ul>
 
